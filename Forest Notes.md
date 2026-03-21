@@ -1,0 +1,1 @@
+Box was started, but was stopped to take eJPT certification
