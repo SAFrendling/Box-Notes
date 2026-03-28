@@ -1,7 +1,6 @@
 # Box-Notes
-Notes taken from pentesting boxes are empty for now, but should be filled out by Mar 10, 2026
 
-Before notes get added, boxes completed are:
+Notes taken from the completed boxes:
 
 Rickdiculously Easy
 
