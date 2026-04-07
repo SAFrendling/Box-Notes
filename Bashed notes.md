@@ -1,6 +1,7 @@
 1.) Reconnaissance
   nmap shows just 80 up, but gives a couple of directories under the ip
   looking up ip/dev shows a phpbash.php that puts you into a phpbash shell
+  
 2.) Privilege Escalation
   sudo -l shows the www-data user can use commands as scriptmanager
   sudo -u scriptmanager ls -la /scripts to see inside the /scripts file
