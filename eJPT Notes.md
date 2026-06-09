@@ -1,3 +1,4 @@
-These notes will be heavily summarized, because I don't know how much I'm allowed say about the test  
-_The one and only certification attempt took 15 of the allotted 48 hours available with an 88%_  
-1.) Reconnaissance: There were about 6 target systems, I believe about 4 of them 
+eJPT Certification Overview  
+Score: 88%  
+Time Spent: 15 hours out of 48  
+Note: I'm not sure what I'm allowed to say about the test, so I'll be focusing on the main takeaways  
